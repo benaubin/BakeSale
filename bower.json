@@ -1,0 +1,25 @@
+{
+  "name": "BakeSale",
+  "version": "0.0.5",
+  "authors": [
+    "Ben! <ben@bensites.com>"
+  ],
+  "description": "Bakesale for APA",
+  "main": "index.html",
+  "keywords": [
+    "bakesale"
+  ],
+  "license": "MIT",
+  "homepage": "http://bakesale.bensites.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "skrollr": "~0.6.29"
+  }
+}
